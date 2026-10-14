@@ -1,0 +1,6 @@
+{
+  "name": "NEO Transport Proposal — HEEM Digital",
+  "description": "Executive software development proposal and interactive presentation deck for NEO Transport's Custom Booking & Management Portal by HEEM Digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
